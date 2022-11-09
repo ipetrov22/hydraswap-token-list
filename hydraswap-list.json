@@ -102,11 +102,19 @@
       "symbol": "EVED",
       "decimals": 18,
       "logoURI": "https://github.com/Hydra-Chain/hydraswap-token-list/raw/main/icons/evedo_28.webp"
+    },
+    { 
+      "chainId": 1,
+      "address": "184473f5cd3ce4e356ffad2052f0079e6d47cebe",
+      "name": "Test",
+      "symbol": "TEST",
+      "decimals": 8,
+      "logoURI": ""
     }
   ],
   "version": {
     "major": 2,
     "minor": 9,
-    "patch": 1
+    "patch": 2
   }
 }

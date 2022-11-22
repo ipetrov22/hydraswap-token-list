@@ -21,7 +21,7 @@
       "name": "HYDRA-Pegged DAI",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://github.com/Hydra-Chain/hydraswap-token-list/raw/main/icons/MCDDai_32.webp"
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydraswap-token-list/main/icons/MCDDai_32.webp"
     },
     { 
       "chainId": 1,
@@ -29,7 +29,7 @@
       "name": "HYDRA-Pegged WBTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://github.com/Hydra-Chain/hydraswap-token-list/raw/main/icons/wbtc_28.webp"
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydraswap-token-list/main/icons/wbtc_28.webp"
     },
     { 
       "chainId": 1,
@@ -37,7 +37,7 @@
       "name": "HYDRA-Pegged Ethereum",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://github.com/Hydra-Chain/hydraswap-token-list/raw/main/icons/ethereum-icon.webp"
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydraswap-token-list/main/icons/ethereum-icon.webp"
     },
     { 
       "chainId": 1,
@@ -101,7 +101,7 @@
       "name": "Evedo",
       "symbol": "EVED",
       "decimals": 18,
-      "logoURI": "https://github.com/Hydra-Chain/hydraswap-token-list/raw/main/icons/evedo_28.webp"
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydraswap-token-list/main/icons/evedo_28.webp"
     },
     { 
       "chainId": 1,
@@ -114,7 +114,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 10,
+    "minor": 11,
     "patch": 2
   }
 }

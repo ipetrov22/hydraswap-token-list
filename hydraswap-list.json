@@ -150,11 +150,19 @@
       "symbol": "USDT-USDC_LP",
       "decimals": 8,
       "logoURI": ""
+    },
+    { 
+      "chainId": 1,
+      "address": "2ac2b678dd71ffd27431524741d4957039620489",
+      "name": "USDC:HYDRA Liquidity Pool",
+      "symbol": "USDC-HYDRA_LP",
+      "decimals": 8,
+      "logoURI": ""
     }
   ],
   "version": {
     "major": 2,
-    "minor": 13,
+    "minor": 14,
     "patch": 2
   }
 }

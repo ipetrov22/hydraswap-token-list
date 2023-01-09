@@ -46,14 +46,6 @@
       "symbol": "LOC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/weichain/hydraswap-token-list/main/icons/LockTrip_LOC_400x400.jpg"
-    },
-    { 
-      "chainId": 1,
-      "address": "7b8dd012ec9e1f11e008376ef21d29ba4cc78e24",
-      "name": "GoMeat",
-      "symbol": "GOMT",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydraswap-token-list/main/icons/Gomt.jpg"
     }, 
     { 
       "chainId": 1,
@@ -62,6 +54,46 @@
       "symbol": "CHANGE",
       "decimals": 18,
       "logoURI": "https://github.com/Hydra-Chain/hydraswap-token-list/raw/main/icons/changex-logo-round.png"
+    },
+    { 
+      "chainId": 1,
+      "address": "9cbbbc9d192fc81225a70f88877169b94d663f8b",
+      "name": "Evedo",
+      "symbol": "EVED",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydraswap-token-list/main/icons/evedo_28.webp"
+    },
+    { 
+      "chainId": 1,
+      "address": "e4b8164dccf3489f66124cace1570dc35b58fc90",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://etherscan.io/token/images/centre-usdc_28.png"
+    },
+    { 
+      "chainId": 1,
+      "address": "932917c89717c809f67ebb421e24fd04d7a96d33",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://etherscan.io/token/images/tether_32.png"
+    },
+    { 
+      "chainId": 1,
+      "address": "0c404645b9e36b6cf9bcaf2747e472334b268e9d",
+      "name": "BUSD",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/binanceusd_32.png"
+    },
+    { 
+      "chainId": 1,
+      "address": "7b8dd012ec9e1f11e008376ef21d29ba4cc78e24",
+      "name": "GoMeat",
+      "symbol": "GOMT",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydraswap-token-list/main/icons/Gomt.jpg"
     },
     { 
       "chainId": 1,
@@ -75,7 +107,7 @@
       "chainId": 1,
       "address": "7c9cba56ebc25265067bbe2c111f9acd47fc2f14",
       "name": "DAI:HYDRA Liquidity Pool",
-      "symbol": "DAIHYDRA_LP",
+      "symbol": "DAI-HYDRA_LP",
       "decimals": 8,
       "logoURI": ""
     },
@@ -83,7 +115,7 @@
       "chainId": 1,
       "address": "9260761f5c1a29938087bc689454041fd0132863",
       "name": "ETH:HYDRA Liquidity Pool",
-      "symbol": "ETHHYDRA_LP",
+      "symbol": "ETH-HYDRA_LP",
       "decimals": 8,
       "logoURI": ""
     },
@@ -91,30 +123,46 @@
       "chainId": 1,
       "address": "0a2ae30701095ee10ae461f0504f14004e27f74a",
       "name": "WBTC:HYDRA Liquidity Pool",
-      "symbol": "WBTCHYDRA_LP",
+      "symbol": "WBTC-HYDRA_LP",
       "decimals": 8,
       "logoURI": ""
     },
     { 
       "chainId": 1,
-      "address": "9cbbbc9d192fc81225a70f88877169b94d663f8b",
-      "name": "Evedo",
-      "symbol": "EVED",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydraswap-token-list/main/icons/evedo_28.webp"
+      "address": "686ddb0abda225be16d04cff311a367493bd639b",
+      "name": "DAI:USDC Liquidity Pool",
+      "symbol": "DAI-USDC_LP",
+      "decimals": 8,
+      "logoURI": ""
     },
     { 
       "chainId": 1,
-      "address": "184473f5cd3ce4e356ffad2052f0079e6d47cebe",
-      "name": "Test",
-      "symbol": "TEST",
+      "address": "d92bf3ac6a2a7be2bf98fe534f0b8dcfe28d7833",
+      "name": "BUSD:USDC Liquidity Pool",
+      "symbol": "BUSD-USDC_LP",
+      "decimals": 8,
+      "logoURI": ""
+    },
+    { 
+      "chainId": 1,
+      "address": "9abeef1738cd95f5f92c1cfd5ec574dfacfc4ea1",
+      "name": "USDT:USDC Liquidity Pool",
+      "symbol": "USDT-USDC_LP",
+      "decimals": 8,
+      "logoURI": ""
+    },
+    { 
+      "chainId": 1,
+      "address": "2ac2b678dd71ffd27431524741d4957039620489",
+      "name": "USDC:HYDRA Liquidity Pool",
+      "symbol": "USDC-HYDRA_LP",
       "decimals": 8,
       "logoURI": ""
     }
   ],
   "version": {
     "major": 2,
-    "minor": 11,
+    "minor": 14,
     "patch": 2
   }
 }

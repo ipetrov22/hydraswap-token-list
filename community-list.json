@@ -38,11 +38,19 @@
       "symbol": "STRAY",
       "decimals": 8,
       "logoURI": ""
+    },
+    { 
+      "chainId": 1,
+      "address": "eac10f01240b09e701b6e110e8f5d334d003006a",
+      "name": "LYDRA",
+      "symbol": "LYDRA",
+      "decimals": 8,
+      "logoURI": ""
     }
 	
   ],
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   }

@@ -21,13 +21,6 @@
     "website": "https://explorer.hydrachain.org/address/HRAS35Sp8R3BUpWKJgFZKYsYGc4vBkjpJx"
   },
   {
-    "address": "HVT7SqGSkbRgz88Zo27duetdUdJTxJoncG",
-    "name": "JVW Super Staker",
-    "fees": 5,
-    "utxo": 5,
-    "website": "https://explorer.hydrachain.org/address/HVT7SqGSkbRgz88Zo27duetdUdJTxJoncG"
-  },
-  {
     "address": "HDgTWk1QN5ooeqdsTuVxutN83Dnaz1A12r",
     "name": "Critics club ;D",
     "fees": 2,
@@ -56,7 +49,6 @@
     "utxo": 100,
     "website": "https://explorer.hydrachain.org/address/HMRGPvtzf94ppPRS6tSQRskY9cshgLyoiC"
   },
-
   {
     "address": "H8qCpDYUqoXXSL7MRiV4mnH4ABM2YjGuy8",
     "name": "Montanic",
@@ -86,20 +78,12 @@
     "website": "https://explorer.hydrachain.org/address/H7KWUpmSKKAtNBGZnzptVZdKQq9q7i6mTP"
   },
   {
-    "address": "HTJz41eEK37aPRCw4jNGpcyaLxtxsaAwjR",
-    "name": "Moot Stake",
-    "fees": 5,
-    "utxo": 5,
-    "website": "https://explorer.hydrachain.org/address/HTJz41eEK37aPRCw4jNGpcyaLxtxsaAwjR"
-  },
-  {
     "address": "HKEPaqNyeHEEnhjqJAeWwV8bzuuT76Vze7",
     "name": "HODLRA",
     "fees": 5,
     "utxo": 5.5,
     "website": "https://explorer.hydrachain.org/address/HKEPaqNyeHEEnhjqJAeWwV8bzuuT76Vze7"
   },
-
   {
     "address": "HQhxb9qntUzHX73yCYaW5kTcT8oATApbea",
     "name": "BRSTAKER",
@@ -113,5 +97,40 @@
     "fees": 5,
     "utxo": 100,
     "website": "https://explorer.hydrachain.org/address/H9WJsEdpWQmYSBvfivkdA1QX5eYCVVXefT"
+  },
+  {
+    "address": "HA2em7RRTkCcoc4xMvpFEjqgf28DSsd94f",
+    "name": "staKedraKe",
+    "fees": 4,
+    "utxo": 100,
+    "website": "https://explorer.hydrachain.org/address/HA2em7RRTkCcoc4xMvpFEjqgf28DSsd94f"
+  },
+  {
+    "address": "HHrBe17n2n81hUzFHBWzT63Pavi2UgBdLK",
+    "name": "HydraEcosystemHolder",
+    "fees": 5,
+    "utxo": 100,
+    "website": "https://explorer.hydrachain.org/address/HHrBe17n2n81hUzFHBWzT63Pavi2UgBdLK"
+  },
+  {
+    "address": "HLauTtKyrEuR4VNq29CxWQDnyQV1gz9E3B",
+    "name": "Tonic",
+    "fees": 4,
+    "utxo": 100,
+    "website": "https://explorer.hydrachain.org/address/HLauTtKyrEuR4VNq29CxWQDnyQV1gz9E3B"
+  },
+  {
+    "address": "HPvcEfUJ3ACu9aGqUn9zvBmtyX3xLW8Y8a",
+    "name": "STAKE42",
+    "fees": 2,
+    "utxo": 100,
+    "website": "https://explorer.hydrachain.org/address/HPvcEfUJ3ACu9aGqUn9zvBmtyX3xLW8Y8a"
+  },
+  {
+    "address": "HAnT3wpxv6KFdZENuu8P1yk2NFPNozH5jr",
+    "name": "ArAAfrA",
+    "fees": 20,
+    "utxo": 0.1,
+    "website": "https://explorer.hydrachain.org/address/HAnT3wpxv6KFdZENuu8P1yk2NFPNozH5jr"
   }
 ]

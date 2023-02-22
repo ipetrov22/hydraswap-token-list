@@ -4,14 +4,14 @@
     "name": "CHANGEX Pool - 5% Fee With 95% Auto Distributed",
     "fees": 100,
     "utxo": 100,
-    "website": "https://explorer.hydrachain.org/address/HA1nWXBKV4r5B6p8WZLWEmCjHo7TQqBTZw"
+    "website": "https://changex.medium.com/guide-hydra-delegated-staking-in-changex-f9f8ccd7e31a"
   },
   {
     "address": "HM6TFbbBvrJ4hcMTFT93R7DBz1FmcUTGAC",
     "name": "Stray Pet",
     "fees": 5,
     "utxo": 5,
-    "website": "https://explorer.hydrachain.org/address/HM6TFbbBvrJ4hcMTFT93R7DBz1FmcUTGAC"
+    "website": "https://straypet.org/superstaking"
   },
   {
     "address": "HRAS35Sp8R3BUpWKJgFZKYsYGc4vBkjpJx",
@@ -46,7 +46,7 @@
     "address": "HMRGPvtzf94ppPRS6tSQRskY9cshgLyoiC",
     "name": "Orion",
     "fees": 5,
-    "utxo": 100,
+    "utxo": 5,
     "website": "https://explorer.hydrachain.org/address/HMRGPvtzf94ppPRS6tSQRskY9cshgLyoiC"
   },
   {
@@ -61,7 +61,7 @@
     "name": "Professional Server Hosting",
     "fees": 4,
     "utxo": 5,
-    "website": "https://explorer.hydrachain.org/address/HKMGqsfVwTXQEPuc2JhzgWxU3yDiAy6D4b"
+    "website": "http://65.21.199.224/hydra.html"
   },
   {
     "address": "HJsmPSVgDUhW9Qqtx577TuGRQtFayJ2zDY",

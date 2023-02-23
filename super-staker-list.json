@@ -140,4 +140,11 @@
     "utxo": 5,
     "website": "https://veniba.com/HYDRA-Delegating-and-SuperStaking/"
   }
+  {
+    "address": "H9E3LSLggv6hzTkRMtYKvr3JpAv4UxvMZn",
+    "name": "TheOne",
+    "fees": 3,
+    "utxo": 5,
+    "website": "https://explorer.hydrachain.org/address/H9E3LSLggv6hzTkRMtYKvr3JpAv4UxvMZn"
+  }
 ]

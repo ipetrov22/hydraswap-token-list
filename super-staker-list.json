@@ -4,14 +4,14 @@
     "name": "CHANGEX Pool - 5% Fee With 95% Auto Distributed",
     "fees": 100,
     "utxo": 100,
-    "website": "https://explorer.hydrachain.org/address/HA1nWXBKV4r5B6p8WZLWEmCjHo7TQqBTZw"
+    "website": "https://changex.medium.com/guide-hydra-delegated-staking-in-changex-f9f8ccd7e31a"
   },
   {
     "address": "HM6TFbbBvrJ4hcMTFT93R7DBz1FmcUTGAC",
     "name": "Stray Pet",
     "fees": 5,
     "utxo": 5,
-    "website": "https://explorer.hydrachain.org/address/HM6TFbbBvrJ4hcMTFT93R7DBz1FmcUTGAC"
+    "website": "https://straypet.org/superstaking"
   },
   {
     "address": "HRAS35Sp8R3BUpWKJgFZKYsYGc4vBkjpJx",
@@ -46,7 +46,7 @@
     "address": "HMRGPvtzf94ppPRS6tSQRskY9cshgLyoiC",
     "name": "Orion",
     "fees": 5,
-    "utxo": 100,
+    "utxo": 5,
     "website": "https://explorer.hydrachain.org/address/HMRGPvtzf94ppPRS6tSQRskY9cshgLyoiC"
   },
   {
@@ -131,6 +131,20 @@
     "name": "ArAAfrA",
     "fees": 20,
     "utxo": 0.1,
+    "website": "https://explorer.hydrachain.org/address/HAnT3wpxv6KFdZENuu8P1yk2NFPNozH5jr"
+  },
+  {
+    "address": "HDAATAKUC4bzysb4Mfb4TAULuRuzQycsBz",
+    "name": "Hydra of Lerna",
+    "fees": 5,
+    "utxo": 5,
+    "website": "https://veniba.com/HYDRA-Delegating-and-SuperStaking"
+  },
+  {
+    "address": "H9E3LSLggv6hzTkRMtYKvr3JpAv4UxvMZn",
+    "name": "TheOne",
+    "fees": 3,
+    "utxo": 5,
     "website": "https://explorer.hydrachain.org/address/HAnT3wpxv6KFdZENuu8P1yk2NFPNozH5jr"
   }
 ]

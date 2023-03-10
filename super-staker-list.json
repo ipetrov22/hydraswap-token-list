@@ -3,7 +3,7 @@
     "address": "HA1nWXBKV4r5B6p8WZLWEmCjHo7TQqBTZw",
     "name": "CHANGEX Pool - 5% Fee With 95% Auto Distributed",
     "fees": 100,
-    "utxo": 100,
+    "utxo": 5,
     "website": "https://changex.medium.com/guide-hydra-delegated-staking-in-changex-f9f8ccd7e31a"
   },
   {

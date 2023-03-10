@@ -146,5 +146,19 @@
     "fees": 3,
     "utxo": 5,
     "website": "https://explorer.hydrachain.org/address/HAnT3wpxv6KFdZENuu8P1yk2NFPNozH5jr"
+  },
+  {
+    "address": "HGpgXL3Tqy4yJzMXLfuu8md55ipFPc8b7P",
+    "name": "Carbon Ferret",
+    "fees": 3,
+    "utxo": 5,
+    "website": "https://explorer.hydrachain.org/address/HGpgXL3Tqy4yJzMXLfuu8md55ipFPc8b7P"
+  },
+  {
+    "address": "HBDHR6vmrHuDMWLgiB2krukKsUW6ymaZrk",
+    "name": "JB Staking Pit",
+    "fees": 5,
+    "utxo": 5,
+    "website": "https://explorer.hydrachain.org/address/HBDHR6vmrHuDMWLgiB2krukKsUW6ymaZrk"
   }
 ]

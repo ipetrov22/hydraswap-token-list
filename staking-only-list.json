@@ -1,0 +1,69 @@
+{
+  "name": "LP Tokens",
+  "logoURI": "",
+  "keywords": ["hydra", "hydraswap"],
+  "timestamp": "2021-05-24T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "7c9cba56ebc25265067bbe2c111f9acd47fc2f14",
+      "name": "DAI:HYDRA Liquidity Pool",
+      "symbol": "DAI-HYDRA_LP",
+      "decimals": 8,
+      "logoURI": ""
+    },
+    {
+      "chainId": 1,
+      "address": "9260761f5c1a29938087bc689454041fd0132863",
+      "name": "ETH:HYDRA Liquidity Pool",
+      "symbol": "ETH-HYDRA_LP",
+      "decimals": 8,
+      "logoURI": ""
+    },
+    {
+      "chainId": 1,
+      "address": "0a2ae30701095ee10ae461f0504f14004e27f74a",
+      "name": "WBTC:HYDRA Liquidity Pool",
+      "symbol": "WBTC-HYDRA_LP",
+      "decimals": 8,
+      "logoURI": ""
+    },
+    {
+      "chainId": 1,
+      "address": "686ddb0abda225be16d04cff311a367493bd639b",
+      "name": "DAI:USDC Liquidity Pool",
+      "symbol": "DAI-USDC_LP",
+      "decimals": 8,
+      "logoURI": ""
+    },
+    {
+      "chainId": 1,
+      "address": "d92bf3ac6a2a7be2bf98fe534f0b8dcfe28d7833",
+      "name": "BUSD:USDC Liquidity Pool",
+      "symbol": "BUSD-USDC_LP",
+      "decimals": 8,
+      "logoURI": ""
+    },
+    {
+      "chainId": 1,
+      "address": "9abeef1738cd95f5f92c1cfd5ec574dfacfc4ea1",
+      "name": "USDT:USDC Liquidity Pool",
+      "symbol": "USDT-USDC_LP",
+      "decimals": 8,
+      "logoURI": ""
+    },
+    {
+      "chainId": 1,
+      "address": "2ac2b678dd71ffd27431524741d4957039620489",
+      "name": "USDC:HYDRA Liquidity Pool",
+      "symbol": "USDC-HYDRA_LP",
+      "decimals": 8,
+      "logoURI": ""
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

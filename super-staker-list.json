@@ -1,0 +1,164 @@
+[
+  {
+    "address": "HA1nWXBKV4r5B6p8WZLWEmCjHo7TQqBTZw",
+    "name": "CHANGEX Pool - 5% Fee With 95% Auto Distributed",
+    "fees": 100,
+    "utxo": 100,
+    "website": "https://changex.medium.com/guide-hydra-delegated-staking-in-changex-f9f8ccd7e31a"
+  },
+  {
+    "address": "HM6TFbbBvrJ4hcMTFT93R7DBz1FmcUTGAC",
+    "name": "Stray Pet",
+    "fees": 5,
+    "utxo": 5,
+    "website": "https://straypet.org/superstaking"
+  },
+  {
+    "address": "HRAS35Sp8R3BUpWKJgFZKYsYGc4vBkjpJx",
+    "name": "Hydra Miner Guy",
+    "fees": 5,
+    "utxo": 5,
+    "website": "https://explorer.hydrachain.org/address/HRAS35Sp8R3BUpWKJgFZKYsYGc4vBkjpJx"
+  },
+  {
+    "address": "HDgTWk1QN5ooeqdsTuVxutN83Dnaz1A12r",
+    "name": "Critics club ;D",
+    "fees": 2,
+    "utxo": 100,
+    "website": "https://explorer.hydrachain.org/address/HDgTWk1QN5ooeqdsTuVxutN83Dnaz1A12r"
+  },
+  {
+    "address": "H8LDCwewDPhdiNXkFAdgyWhcGTMxVqhqrB",
+    "name": "Dhydra",
+    "fees": 5,
+    "utxo": 100,
+    "website": "https://explorer.hydrachain.org/address/H8LDCwewDPhdiNXkFAdgyWhcGTMxVqhqrB"
+  },
+
+  {
+    "address": "HJX7Mt2oSsWmfiPTVap8xdSn2yzkm4VqCu",
+    "name": "Hydra Mining Hub",
+    "fees": 5,
+    "utxo": 100,
+    "website": "https://explorer.hydrachain.org/address/HJX7Mt2oSsWmfiPTVap8xdSn2yzkm4VqCu"
+  },
+  {
+    "address": "HMRGPvtzf94ppPRS6tSQRskY9cshgLyoiC",
+    "name": "Orion",
+    "fees": 5,
+    "utxo": 5,
+    "website": "https://explorer.hydrachain.org/address/HMRGPvtzf94ppPRS6tSQRskY9cshgLyoiC"
+  },
+  {
+    "address": "H8qCpDYUqoXXSL7MRiV4mnH4ABM2YjGuy8",
+    "name": "Montanic",
+    "fees": 5,
+    "utxo": 100,
+    "website": "https://explorer.hydrachain.org/address/H8qCpDYUqoXXSL7MRiV4mnH4ABM2YjGuy8"
+  },
+  {
+    "address": "HKMGqsfVwTXQEPuc2JhzgWxU3yDiAy6D4b",
+    "name": "Professional Server Hosting",
+    "fees": 4,
+    "utxo": 5,
+    "website": "https://explorer.hydrachain.org/address/HKMGqsfVwTXQEPuc2JhzgWxU3yDiAy6D4b"
+  },
+  {
+    "address": "HJsmPSVgDUhW9Qqtx577TuGRQtFayJ2zDY",
+    "name": "Sota Staking",
+    "fees": 5,
+    "utxo": 100,
+    "website": "https://explorer.hydrachain.org/address/HJsmPSVgDUhW9Qqtx577TuGRQtFayJ2zDY"
+  },
+  {
+    "address": "H7KWUpmSKKAtNBGZnzptVZdKQq9q7i6mTP",
+    "name": "BFC",
+    "fees": 5,
+    "utxo": 100,
+    "website": "https://explorer.hydrachain.org/address/H7KWUpmSKKAtNBGZnzptVZdKQq9q7i6mTP"
+  },
+  {
+    "address": "HKEPaqNyeHEEnhjqJAeWwV8bzuuT76Vze7",
+    "name": "HODLRA",
+    "fees": 5,
+    "utxo": 5.5,
+    "website": "https://explorer.hydrachain.org/address/HKEPaqNyeHEEnhjqJAeWwV8bzuuT76Vze7"
+  },
+  {
+    "address": "HQhxb9qntUzHX73yCYaW5kTcT8oATApbea",
+    "name": "BRSTAKER",
+    "fees": 4,
+    "utxo": 100,
+    "website": "https://explorer.hydrachain.org/address/HQhxb9qntUzHX73yCYaW5kTcT8oATApbea"
+  },
+  {
+    "address": "H9WJsEdpWQmYSBvfivkdA1QX5eYCVVXefT",
+    "name": "BlueVision",
+    "fees": 5,
+    "utxo": 100,
+    "website": "https://explorer.hydrachain.org/address/H9WJsEdpWQmYSBvfivkdA1QX5eYCVVXefT"
+  },
+  {
+    "address": "HA2em7RRTkCcoc4xMvpFEjqgf28DSsd94f",
+    "name": "staKedraKe",
+    "fees": 4,
+    "utxo": 100,
+    "website": "https://explorer.hydrachain.org/address/HA2em7RRTkCcoc4xMvpFEjqgf28DSsd94f"
+  },
+  {
+    "address": "HHrBe17n2n81hUzFHBWzT63Pavi2UgBdLK",
+    "name": "HydraEcosystemHolder",
+    "fees": 5,
+    "utxo": 100,
+    "website": "https://explorer.hydrachain.org/address/HHrBe17n2n81hUzFHBWzT63Pavi2UgBdLK"
+  },
+  {
+    "address": "HLauTtKyrEuR4VNq29CxWQDnyQV1gz9E3B",
+    "name": "Tonic",
+    "fees": 4,
+    "utxo": 100,
+    "website": "https://explorer.hydrachain.org/address/HLauTtKyrEuR4VNq29CxWQDnyQV1gz9E3B"
+  },
+  {
+    "address": "HPvcEfUJ3ACu9aGqUn9zvBmtyX3xLW8Y8a",
+    "name": "STAKE42",
+    "fees": 2,
+    "utxo": 100,
+    "website": "https://explorer.hydrachain.org/address/HPvcEfUJ3ACu9aGqUn9zvBmtyX3xLW8Y8a"
+  },
+  {
+    "address": "HAnT3wpxv6KFdZENuu8P1yk2NFPNozH5jr",
+    "name": "ArAAfrA",
+    "fees": 20,
+    "utxo": 0.1,
+    "website": "https://explorer.hydrachain.org/address/HAnT3wpxv6KFdZENuu8P1yk2NFPNozH5jr"
+  },
+  {
+    "address": "HDAATAKUC4bzysb4Mfb4TAULuRuzQycsBz",
+    "name": "Hydra of Lerna",
+    "fees": 5,
+    "utxo": 5,
+    "website": "https://veniba.com/HYDRA-Delegating-and-SuperStaking"
+  },
+  {
+    "address": "H9E3LSLggv6hzTkRMtYKvr3JpAv4UxvMZn",
+    "name": "TheOne",
+    "fees": 3,
+    "utxo": 5,
+    "website": "https://explorer.hydrachain.org/address/HAnT3wpxv6KFdZENuu8P1yk2NFPNozH5jr"
+  },
+  {
+    "address": "HGpgXL3Tqy4yJzMXLfuu8md55ipFPc8b7P",
+    "name": "Carbon Ferret",
+    "fees": 3,
+    "utxo": 5,
+    "website": "https://explorer.hydrachain.org/address/HGpgXL3Tqy4yJzMXLfuu8md55ipFPc8b7P"
+  },
+  {
+    "address": "HBDHR6vmrHuDMWLgiB2krukKsUW6ymaZrk",
+    "name": "JB Staking Pit",
+    "fees": 5,
+    "utxo": 5,
+    "website": "https://explorer.hydrachain.org/address/HBDHR6vmrHuDMWLgiB2krukKsUW6ymaZrk"
+  }
+]
